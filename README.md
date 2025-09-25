@@ -33,7 +33,7 @@ GIF created with Adobe Express
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+One of the main challenges was getting used to Express and figuring out how to use it for routing and serving files. I also had to set up dynamic routes so each shop had its own detail page, which took some time to get right without a frontend framework. Making the site responsive and making sure the images looked consistent across different pages was another hurdle.
 
 ## License
 
